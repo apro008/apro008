@@ -1,4 +1,4 @@
-# Hey, I'm Apro 👋
+# Hey, I'm Aprajati 👋
 
 **Full-Stack & Mobile Developer · India 🇮🇳**
 
