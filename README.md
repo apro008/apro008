@@ -60,7 +60,7 @@ I own apps **end to end**: architecture, performance, REST API integration, CI/C
 
 | # | 📱 App | 🛠 Tech Stack | 📝 Description | 🔗 Link |
 |:--|:--|:--|:--|:--|
-| 1 | **🎮 MultiQuiz — Play with Friends** | Flutter · Dart · Firebase (Firestore, Cloud Functions) | Real-time **multiplayer quiz game**. Host a room, share a 6-digit code, and race up to 4 players through 10 questions — with live answer status, per-player scores and one-tap **Quick Match** against strangers. | [▶️ Google Play](https://play.google.com/store/apps/details?id=com.apro.multiQuiz) |
+| 1 | **🎮 MultiQuiz — Play with Friends** | Flutter · Firebase (Firestore, Cloud Functions) | Real-time **multiplayer quiz game**. Host a room, share a 6-digit code, and race up to 4 players through 10 questions — with live answer status, per-player scores and one-tap **Quick Match** against strangers. | [▶️ Google Play](https://play.google.com/store/apps/details?id=com.apro.multiQuiz) |
 | 2 | **💰 DailyFinance — Expense + Cashback** | React Native · Expo Router · TypeScript · Firebase · SQLite · ML Kit OCR | **Expense tracker + cashback manager** in one. Scan receipts with on-device **OCR**, track spending offline-first with SQLite, secure it behind **biometric lock**, and never miss a cashback reward again. | [▶️ Google Play](https://play.google.com/store/apps/details?id=com.apro007.CashBackTracker) |
 
 <p align="center">
@@ -107,7 +107,6 @@ I own apps **end to end**: architecture, performance, REST API integration, CI/C
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -269,11 +268,10 @@ Future Institute of Engineering and Management · Aug 2014 – Jul 2017
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aprajati-siuli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aprajati-siuli-b34594106/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aprajatisiuli002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/apro008" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://twitter.com/Apro006" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.smurfcart.com" target="_blank"><img src="https://img.shields.io/badge/Website-Smurfcart-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 <p align="center">
