@@ -240,7 +240,7 @@ I own apps **end to end**: architecture, performance, REST API integration, CI/C
 ## 🐍 Watch My Contributions Get Eaten By A Snake!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" width="100%"/>
+  <img src="https://raw.githubusercontent.com/apro008/apro008/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" width="100%"/>
 </p>
 
 <p align="center">
