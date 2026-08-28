@@ -4,7 +4,7 @@
 
 <!-- 💫 Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&height=70&color=61DAFB&lines=Hey+👋+I'm+Aprajati+Siuli;Senior+React+Native+Developer+%7C+React.js;iOS+📱+Android+🤖+WatchOS+⌚+Widgets+🧩;100%2C000%2B+Downloads+Across+Published+Apps+🚀;Ship+Fast.+Ship+Polished.+✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&height=70&color=61DAFB&lines=Hey+👋+I'm+Aprajati+Siuli;Senior+React+Native+Developer+%7C+React.js;iOS+📱+Android+🤖+WatchOS+⌚+Widgets+🧩;100%2C000%2B+Downloads+Across+Published+Apps+🚀;Open+to+Work+%E2%80%94+Mobile+%26+Web+💼;Ship+Fast.+Ship+Polished.+✨" alt="Typing Animation" />
 </p>
 
 <!-- 🌈 Animated Header Banner -->
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/📱_Focus-React%20Native%20%7C%20Expo%20%7C%20TypeScript-3178C6?style=for-the-badge&logo=react&logoColor=white" alt="focus"/>
   <img src="https://img.shields.io/github/followers/apro008?label=Followers&style=for-the-badge&color=7c3aed" alt="followers"/>
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-00D9A5?style=for-the-badge&logo=timescale&logoColor=white" alt="experience"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-💼%20Mobile%20%26%20Web-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="open to work"/>
 </p>
 
 <h3 align="center">📱 Senior React Native Developer | React.js | TypeScript | Expo | Node.js | AI-Powered Apps</h3>
@@ -39,7 +40,7 @@ I own apps **end to end**: architecture, performance, REST API integration, CI/C
 - ⚡ **Impact:** Cut app load time by **30%** through memoization, list virtualization & lazy loading
 - 🧩 **Beyond the app:** Native modules & bridging, Android/iOS widgets, WatchOS companion apps
 - 🌱 **Growing in:** Node.js backend systems & AI/LLM-powered app features
-- 🤝 **Open to:** Collaborations, freelance work & exciting opportunities
+- 🤝 **Open to work:** Actively looking for **mobile or web development** roles — full-time, contract or freelance
 
 **🎯 Mission:** *"Ship fast. Ship polished. Ship things people actually keep on their home screen."*
 
@@ -264,7 +265,7 @@ Future Institute of Engineering and Management · Aug 2014 – Jul 2017
 ## 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=900&color=61DAFB&lines=Let's+Connect+🌍;Open+to+React+Native+%2F+React.js+Roles+🚀;Try+MultiQuiz+%26+DailyFinance+on+Google+Play+📱;Design.+Build.+Ship.+✨" alt="connect typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=900&color=61DAFB&lines=Let's+Connect+🌍;Open+to+Mobile+%26+Web+Roles+🚀;Try+MultiQuiz+%26+DailyFinance+on+Google+Play+📱;Design.+Build.+Ship.+✨" alt="connect typing"/>
 </p>
 
 <p align="center">
